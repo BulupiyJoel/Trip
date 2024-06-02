@@ -2,7 +2,6 @@ import 'package:datetime_picker_field_platform/datetime_picker_field_platform.da
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:trip/components/input.dart';
-import 'package:trip/pages/home.dart';
 import 'package:trip/pages/searchresult.dart';
 
 class Index extends StatefulWidget {
